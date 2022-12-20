@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Pokój niebieski",
+    "beds": 4,
+    "guests": 3,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias officiis recusandae sequi nostrum similique error doloremque, quidem perspiciatis eos. Illo consequatur dolorum voluptas repellat pariatur ducimus sint, enim quae? Corrupti deserunt consectetur facere soluta repellat pariatur architecto quod quisquam similique nemo, sequi doloribus velit magni neque fuga eum aspernatur quia dolor tenetur eveniet illum reiciendis! Corrupti assumenda expedita odit ad voluptatem placeat, sunt sint harum itaque, magni molestias nemo amet fugit minus eaque maxime dignissimos nostrum libero saepe? Eveniet doloremque saepe quae facilis earum recusandae voluptatem fuga voluptate labore voluptatibus! Quibusdam a blanditiis corporis laboriosam quae numquam, quasi aperiam dolorum.",
+    "price": 123.2312,
+    "grade": 4.87,
+    "img": "room-001.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Pokój żółty",
+    "beds": 6,
+    "guests": 6,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias officiis recusandae sequi nostrum similique error doloremque, quidem perspiciatis eos. Illo consequatur dolorum voluptas repellat pariatur ducimus sint, enim quae? Corrupti deserunt consectetur facere soluta repellat pariatur architecto quod quisquam similique nemo, sequi doloribus velit magni neque fuga eum aspernatur quia dolor tenetur eveniet illum reiciendis! Corrupti assumenda expedita odit ad voluptatem placeat, sunt sint harum itaque, magni molestias nemo amet fugit minus eaque maxime dignissimos nostrum libero saepe? Eveniet doloremque saepe quae facilis earum recusandae voluptatem fuga voluptate labore voluptatibus! Quibusdam a blanditiis corporis laboriosam quae numquam, quasi aperiam dolorum.",
+    "price": 666.666,
+    "grade": 3.43,
+    "img": "room-002.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pokój zielony",
+    "beds": 6,
+    "guests": 9,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias officiis recusandae sequi nostrum similique error doloremque, quidem perspiciatis eos. Illo consequatur dolorum voluptas repellat pariatur ducimus sint, enim quae? Corrupti deserunt consectetur facere soluta repellat pariatur architecto quod quisquam similique nemo, sequi doloribus velit magni neque fuga eum aspernatur quia dolor tenetur eveniet illum reiciendis! Corrupti assumenda expedita odit ad voluptatem placeat, sunt sint harum itaque, magni molestias nemo amet fugit minus eaque maxime dignissimos nostrum libero saepe? Eveniet doloremque saepe quae facilis earum recusandae voluptatem fuga voluptate labore voluptatibus! Quibusdam a blanditiis corporis laboriosam quae numquam, quasi aperiam dolorum.",
+    "price": 420.42,
+    "grade": 4.19,
+    "img": "room-003.jpg"
+  }
+]

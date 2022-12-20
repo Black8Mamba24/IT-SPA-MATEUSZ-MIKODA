@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "Zabieg 1",
+    "price": 299.99,
+    "description": "Some treatment description.",
+    "img": "treatment-001.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Zabieg 2",
+    "price": 799.99,
+    "description": "Some treatment description.",
+    "img": "treatment-002.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Zabieg 3",
+    "price": 13999.99,
+    "description": "Some treatment description.",
+    "img": "treatment-003.jpg"
+  }
+]
