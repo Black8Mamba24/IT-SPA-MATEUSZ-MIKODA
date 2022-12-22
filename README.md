@@ -7,7 +7,7 @@
 ```bash
 node.js v18+
 npm v8+
-yarn v1+ ( npm install --global yarn )
+yarn v1+
 ```
 
 **Setup**
@@ -16,6 +16,12 @@ While in `/it-spa` directory, install dependencies with npm:
 
 ```bash
 npm install
+```
+
+if u don't have yarn - use command:
+
+```bash
+npm install --global yarn
 ```
 
 To launch SPA app, use:
