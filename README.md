@@ -5,9 +5,9 @@
 **Prerequisites**
 
 ```bash
-node.js v19+
+node.js v18+
 npm v8+
-yarn v1+
+yarn v1+ ( npm install --global yarn )
 ```
 
 **Setup**
